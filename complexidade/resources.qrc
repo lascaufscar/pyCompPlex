@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/plugins/Complexidade">
+    <file>logoDHB.png</file>
+    <file>icon80G.png</file>
+    <file>icon80A.png</file>
+    <file>iconA.png</file>
+    <file>icon80.png</file>
+    <file>logoDHB_P.png</file>
+    <file>ufscar.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
